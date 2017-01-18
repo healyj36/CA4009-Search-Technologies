@@ -1,10 +1,7 @@
 # CA4009 Search Technologies
 
-## Results
-
-Labs: 72%
-
-Assignment: 72%
-
-
-Total: 72%
+CA  | Result
+------------- | -------------
+Labs | 72%
+Assignment | 72%
+__Total__ | __72%__
